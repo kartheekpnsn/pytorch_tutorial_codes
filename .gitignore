@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+build/
+dist/
+*.whl
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.out
+*.err
+*.yaml
+logs/
+
+# Data files
+*.csv
+*.tsv
+*.data
+*.dat
+*.h5
+*.pkl
+*.npz
+*.joblib
+*.ckpt
+*.onnx
+*.pth
+*.pt
+*.tfrecord
+*.tf
+
+# AI/ML/DL artifacts
+models/
+checkpoints/
+lightning_logs/
+runs/
+*.weights
+*.hdf5
+
+# Generated files
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Temporary files
+*.tmp
+*.temp
+
+# Data folder
+/data/
+
+# Secrets
+*.env
+*.key
+*.pem
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+target/
+
+# Others
+*.ipynb_convert_output
